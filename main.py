@@ -10,3 +10,4 @@ def decoding_message():
     print(decoded_message)
 
 decoding_message()
+decoding_message()
